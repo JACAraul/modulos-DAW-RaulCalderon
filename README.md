@@ -7,3 +7,6 @@
  4.bases de datos
  5.Lenguajes de marcas
  6.Sistemas informaticos
+
+Pros :
+en este curso aprenderas todas las bases de la programacion...
