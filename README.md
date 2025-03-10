@@ -7,3 +7,6 @@
  4.bases de datos
  5.Lenguajes de marcas
  6.Sistemas informaticos
+
+contras:
+las clases son por la tarde, duran muchas horas...
